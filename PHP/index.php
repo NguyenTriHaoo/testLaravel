@@ -59,7 +59,7 @@
 
 <nav>
     <a href="index.php">Trang chủ</a>
-    <a href="about.php">Hao cute va bich cute</a>
+    <a href="about.php">Hao cute va bich sieu map</a>
 </nav>
 
 <div class="container">
