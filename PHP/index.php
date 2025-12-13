@@ -59,7 +59,7 @@
 
 <nav>
     <a href="index.php">Trang chủ</a>
-    <a href="about.php">Hao cute va bich sieu map</a>
+    <a href="about.php">phat triển mã nguồn mở</a>
 </nav>
 
 <div class="container">
